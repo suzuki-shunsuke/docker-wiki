@@ -1,4 +1,4 @@
-# docker-way
+# docker-wiki
 
 Dockerに関するノウハウとか
 
